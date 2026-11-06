@@ -1,0 +1,6 @@
+{
+  "name": "HouseHunt Kenya - Interactive Rentals & Virtual Tours",
+  "description": "Kenya's trusted rental house-hunting marketplace with real-time notifications, interactive maps, 360° virtual property tours, and verified Kenyan estate listings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
